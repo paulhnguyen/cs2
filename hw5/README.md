@@ -2,7 +2,8 @@ Paul Nguyen's HW 5
 
 Apologies in advance if this Readme isn't up to standard, I missed lab this week, so I'll update it after chatting with Eitan hopefully.
 
-My estimates for $pi$:
+
+My estimates for $pi$: \n
 10: 3.52
 100: 3.1812
 1000: 3.14554
