@@ -32,9 +32,10 @@ Compression Tests
 We provide 5 text files and compress/decompress them: spiderman, sonic, french mickey mouse, charizard, and a sitting man.
 
 
-| Text File  | Raw Size  | Compressed Size  | Matches? | 
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
+| Text File        | Raw Size | Compressed Size | Matches? |
+|------------------|----------|-----------------|----------|
+| charizard.txt    | 3kb      | 1kb             | y        |
+| frenchmickey.txt | 1kb      | 1kb             | y        |
+| sittingman.txt   | 1kb      | 1kb             | y        |
+| spiderman.txt    | 17kb     | 4kb             | y        |
+| sonic.txt        | 3kb      | 2kb             | y        |
