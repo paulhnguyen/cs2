@@ -31,5 +31,12 @@ Encoder takes another filename as a command-line argument. It then reads and com
 Compression Tests
 We provide 5 text files and compress/decompress them: spiderman, sonic, french mickey mouse, charizard, and a sitting man.
 
+Text File | Raw Size | Compressed Size | Matches?
+------------- | -------------
+Content Cell  | Content Cell |  |  |
+Content Cell  | Content Cell |  |  |
+wwwerjwleirj  | ewrwerwerwer |  |  |
+wer           |              |  |  |
+wer           |              |  |  |
 
 
