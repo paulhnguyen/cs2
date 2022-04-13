@@ -4,7 +4,6 @@ Paul Nguyen and Michael Huynh
 This folder contains the code and results from the random search implementation of the traveling salesman problem.
 
 
-We've 
 
 - operator>> (std::istream&, Cities&) to allow for the reading  / filling of a Cities object from a stream. 
 - operator<< (std::ostream&, Cities&) to allow for the outputting of a Cities object to a stream.
